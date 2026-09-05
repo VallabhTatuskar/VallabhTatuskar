@@ -1,8 +1,8 @@
-# Hi, I'm Vallabh Tatuskar 👋
+# Hi, I'm Vallabh Tatuskar 
 
 Computer Science student passionate about AI applications, game development, and software engineering.
 
-## 🚀 What I Build
+##  What I Build
 
 - AI-powered desktop applications
 - Unity games
@@ -10,7 +10,7 @@ Computer Science student passionate about AI applications, game development, and
 - Computer Vision projects
 - Full-stack web applications
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 Languages
 Python • Java • C# • C++ • JavaScript
@@ -26,13 +26,13 @@ Git • GitHub • VS Code • Unreal Engine
 
 ## Featured Projects
 
-🎙 Inferno
+ Inferno
 Desktop AI Voice Assistant
 
-🎮 Rollestic
+ Rollestic
 Physics-based Unity Game
 
-🔒 SQL Injection Detection System
+ SQL Injection Detection System
 
-👁 Object Detection System (YOLO)
+ Object Detection System (YOLO)
 
