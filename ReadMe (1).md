@@ -1,5 +1,5 @@
 # 💫 About Me:
- Computer Science student | Unity Game Developer<br><br>I'm a Computer Science student passionate about game development, software engineering, and building interactive experiences.<br><br> Developing games with Unity and C#<br> Experienced with gameplay programming, physics, collision handling, and UI systems<br> Currently working on Delivery Overdrive, a 2D delivery game<br> Exploring software development, machine learning, and new technologies<br> Always learning, experimenting, and building projects<br><br>Tech Stack: C# · Unity · Python · Git · GitHub · Visual Studio
+ Computer Science student | Unity Game Developer<br><br>I'm a Computer Science student passionate about game development, software engineering, and building interactive experiences.<br><br> Developing games with Unity and C#<br> Experienced with gameplay programming, physics, collision handling, and UI systems<br> Currently working on Delivery Overdrive, a 2D delivery game<br> Exploring software development, machine learning, and new technologies<br> Always learning, experimenting, and building projects<br><br>Tech Stack: C# · Unity · Python · Git · Unreal 
 
 
 ## 🌐 Socials:
